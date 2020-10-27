@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b3b01e5-c83d-4c42-b982-51dc9e2a5450" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="43" column="41" lean-forward="true" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
+              <folding>
+                <marker date="1603789413761" expanded="true" signature="6:92" ph="..." />
+                <marker date="1603789413761" expanded="true" signature="139:1422" ph="{...}" />
+                <marker date="1603789413761" expanded="true" signature="380:401" ph="{...}" />
+                <marker date="1603789413761" expanded="true" signature="472:543" ph="{...}" />
+                <marker date="1603789413761" expanded="true" signature="601:717" ph="{...}" />
+                <marker date="1603789413761" expanded="true" signature="641:711" ph="{...}" />
+                <marker date="1603789413761" expanded="true" signature="796:1141" ph="{...}" />
+                <marker date="1603789413761" expanded="true" signature="1193:1214" ph="{...}" />
+                <marker date="1603789413761" expanded="true" signature="1263:1420" ph="{...}" />
+                <marker date="1603789413761" expanded="true" signature="1328:1414" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Joystick Pack/Examples/JoystickSetterExample.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="864">
+              <caret line="63" column="61" selection-start-line="63" selection-start-column="45" selection-end-line="63" selection-end-column="61" />
+              <folding>
+                <marker date="1553437255000" expanded="false" signature="6:100" ph="..." />
+                <marker date="1553437255000" expanded="true" signature="152:1681" ph="{...}" />
+                <marker date="1553437255000" expanded="true" signature="329:752" ph="{...}" />
+                <marker date="1553437255000" expanded="true" signature="357:741" ph="{...}" />
+                <marker date="1553437255000" expanded="true" signature="792:1393" ph="{...}" />
+                <marker date="1553437255000" expanded="true" signature="821:1387" ph="{...}" />
+                <marker date="1553437255000" expanded="true" signature="1428:1480" ph="{...}" />
+                <marker date="1553437255000" expanded="true" signature="1515:1567" ph="{...}" />
+                <marker date="1553437255000" expanded="true" signature="1594:1679" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Joystick Pack/Examples/JoystickPlayerExample.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+              <folding>
+                <marker date="1553437264000" expanded="false" signature="6:78" ph="..." />
+                <marker date="1553437264000" expanded="true" signature="130:479" ph="{...}" />
+                <marker date="1553437264000" expanded="true" signature="258:477" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Joystick Pack/Scripts/Joysticks/VariableJoystick.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16">
+              <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="40" />
+              <folding>
+                <marker date="1553437255000" expanded="false" signature="6:110" ph="..." />
+                <marker date="1553437255000" expanded="true" signature="152:1910" ph="{...}" />
+                <marker date="1553437255000" expanded="true" signature="496:790" ph="{...}" />
+                <marker date="1553437255000" expanded="true" signature="591:719" ph="{...}" />
+                <marker date="1553437255000" expanded="true" signature="827:945" ph="{...}" />
+                <marker date="1553437255000" expanded="true" signature="1013:1275" ph="{...}" />
+                <marker date="1553437255000" expanded="true" signature="1066:1230" ph="{...}" />
+                <marker date="1553437255000" expanded="true" signature="1341:1490" ph="{...}" />
+                <marker date="1553437255000" expanded="true" signature="1596:1908" ph="{...}" />
+                <marker date="1553437255000" expanded="true" signature="1681:1840" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Joystick Pack/Scripts/Joysticks/VariableJoystick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Joystick Pack/Scripts/Base/Joystick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Joystick Pack/Examples/JoystickSetterExample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Joystick Pack/Examples/JoystickPlayerExample.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.idea.RollABallSection2/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/.idea.RollABallSection2/.idea/indexLayout.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="868" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b3b01e5-c83d-4c42-b982-51dc9e2a5450" name="Default Changelist" comment="" />
+      <created>1603435168111</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603435168111</updated>
+      <workItem from="1603435170640" duration="7657000" />
+      <workItem from="1603789182885" duration="244000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7901000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24964234" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Unity" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Unit Tests" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Joystick Pack/Scripts/Base/Joystick.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="5" column="80" selection-start-line="5" selection-start-column="80" selection-end-line="5" selection-end-column="80" />
+          <folding>
+            <marker date="1553437266000" expanded="false" signature="6:110" ph="..." />
+            <marker date="1553437266000" expanded="true" signature="203:4791" ph="{...}" />
+            <marker date="1553437266000" expanded="true" signature="536:632" ph="{...}" />
+            <marker date="1553437266000" expanded="true" signature="659:749" ph="{...}" />
+            <marker date="1553437266000" expanded="true" signature="1558:2070" ph="{...}" />
+            <marker date="1553437266000" expanded="true" signature="2137:2176" ph="{...}" />
+            <marker date="1553437266000" expanded="true" signature="2228:2744" ph="{...}" />
+            <marker date="1553437266000" expanded="true" signature="2849:3029" ph="{...}" />
+            <marker date="1553437266000" expanded="true" signature="2889:2976" ph="{...}" />
+            <marker date="1553437266000" expanded="true" signature="3061:3270" ph="{...}" />
+            <marker date="1553437266000" expanded="true" signature="3334:4175" ph="{...}" />
+            <marker date="1553437266000" expanded="true" signature="3436:4011" ph="{...}" />
+            <marker date="1553437266000" expanded="true" signature="3558:3739" ph="{...}" />
+            <marker date="1553437266000" expanded="true" signature="3794:3975" ph="{...}" />
+            <marker date="1553437266000" expanded="true" signature="4024:4151" ph="{...}" />
+            <marker date="1553437266000" expanded="true" signature="4240:4330" ph="{...}" />
+            <marker date="1553437266000" expanded="true" signature="4407:4789" ph="{...}" />
+            <marker date="1553437266000" expanded="true" signature="4572:4754" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="43" column="41" lean-forward="true" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
+          <folding>
+            <marker date="1603789413761" expanded="true" signature="6:92" ph="..." />
+            <marker date="1603789413761" expanded="true" signature="139:1422" ph="{...}" />
+            <marker date="1603789413761" expanded="true" signature="380:401" ph="{...}" />
+            <marker date="1603789413761" expanded="true" signature="472:543" ph="{...}" />
+            <marker date="1603789413761" expanded="true" signature="601:717" ph="{...}" />
+            <marker date="1603789413761" expanded="true" signature="641:711" ph="{...}" />
+            <marker date="1603789413761" expanded="true" signature="796:1141" ph="{...}" />
+            <marker date="1603789413761" expanded="true" signature="1193:1214" ph="{...}" />
+            <marker date="1603789413761" expanded="true" signature="1263:1420" ph="{...}" />
+            <marker date="1603789413761" expanded="true" signature="1328:1414" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Joystick Pack/Examples/JoystickSetterExample.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="63" column="61" selection-start-line="63" selection-start-column="45" selection-end-line="63" selection-end-column="61" />
+          <folding>
+            <marker date="1553437255000" expanded="false" signature="6:100" ph="..." />
+            <marker date="1553437255000" expanded="true" signature="152:1681" ph="{...}" />
+            <marker date="1553437255000" expanded="true" signature="329:752" ph="{...}" />
+            <marker date="1553437255000" expanded="true" signature="357:741" ph="{...}" />
+            <marker date="1553437255000" expanded="true" signature="792:1393" ph="{...}" />
+            <marker date="1553437255000" expanded="true" signature="821:1387" ph="{...}" />
+            <marker date="1553437255000" expanded="true" signature="1428:1480" ph="{...}" />
+            <marker date="1553437255000" expanded="true" signature="1515:1567" ph="{...}" />
+            <marker date="1553437255000" expanded="true" signature="1594:1679" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Joystick Pack/Examples/JoystickPlayerExample.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <marker date="1553437264000" expanded="false" signature="6:78" ph="..." />
+            <marker date="1553437264000" expanded="true" signature="130:479" ph="{...}" />
+            <marker date="1553437264000" expanded="true" signature="258:477" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Joystick Pack/Scripts/Joysticks/VariableJoystick.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="40" />
+          <folding>
+            <marker date="1553437255000" expanded="false" signature="6:110" ph="..." />
+            <marker date="1553437255000" expanded="true" signature="152:1910" ph="{...}" />
+            <marker date="1553437255000" expanded="true" signature="496:790" ph="{...}" />
+            <marker date="1553437255000" expanded="true" signature="591:719" ph="{...}" />
+            <marker date="1553437255000" expanded="true" signature="827:945" ph="{...}" />
+            <marker date="1553437255000" expanded="true" signature="1013:1275" ph="{...}" />
+            <marker date="1553437255000" expanded="true" signature="1066:1230" ph="{...}" />
+            <marker date="1553437255000" expanded="true" signature="1341:1490" ph="{...}" />
+            <marker date="1553437255000" expanded="true" signature="1596:1908" ph="{...}" />
+            <marker date="1553437255000" expanded="true" signature="1681:1840" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
